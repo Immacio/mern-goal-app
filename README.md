@@ -1,1 +1,1 @@
-# Goal App built with MERN + TailwindCSS
+# Goal App built with MERN Stack + TailwindCSS
