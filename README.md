@@ -1,1 +1,1 @@
-# Goal App built with MERN
+# GoalSetter app built with MERN Stack + TailwindCSS
