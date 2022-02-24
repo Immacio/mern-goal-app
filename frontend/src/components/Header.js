@@ -25,7 +25,7 @@ function Header() {
       <div className="flex space-x-10">
         {user ? (
           <button
-            className="flex items-center justify-center space-x-2 hover:opacity-60 border rounded-lg py-1 px-4 bg-black text-white"
+            className="flex items-center justify-center space-x-2 hover:opacity-60 border rounded-lg py-1 px-4 bg-black text-white transition ease-out"
             onClick={onLogout}
           >
             <FaSignOutAlt />
